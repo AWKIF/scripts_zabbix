@@ -1,5 +1,7 @@
 # scripts_zabbix
 
+#DUPDATE.PY
+
 ####Permet de disable le monitoring d'un host zabbix.
 
 ####Allow to disable monitoring on a zabbix host
