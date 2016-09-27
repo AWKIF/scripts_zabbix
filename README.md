@@ -1,10 +1,10 @@
 # scripts_zabbix
 
-Permet de disable le monitoring d'un host zabbix.
+#Permet de disable le monitoring d'un host zabbix.
 
-Allow to disable monitoring on a zabbix host
+#Allow to disable monitoring on a zabbix host
 
-You need:
+#You need:
 
 yum install epel-release (necessary if you don't find the below packages)
 
@@ -12,7 +12,7 @@ yum install python
 
 yum install python-pip
 
-Then install
+#Then install
 
 pip install pyzabbix
 
