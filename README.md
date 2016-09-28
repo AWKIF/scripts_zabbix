@@ -20,7 +20,7 @@ pip install pyzabbix
 
 ./dupdate.py --url http://zabbix_url/ --user XXXX --password XXXXX --disable X --hostname XXXXXX
 
-####1 to disable - 0 to enable
+1 to disable - 0 to enable
 
 
 #INTUPDATE.PY
